@@ -1,0 +1,3 @@
+Sqlcmd: Error: Microsoft ODBC Driver 17 for SQL Server : SQL Server Network Interfaces: The target principal name is incorrect.
+.
+Sqlcmd: Error: Microsoft ODBC Driver 17 for SQL Server : Cannot generate SSPI context.
