@@ -22,6 +22,7 @@ Then install requirements
 pip install -r requirements.txt
 ```
 
+You will also need to have SQLCDM installed: https://docs.microsoft.com/en-us/sql/tools/sqlcmd-utility?view=sql-server-ver15
 
 **For ubuntu**  you have to:
 
